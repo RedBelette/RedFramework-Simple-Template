@@ -1,0 +1,20 @@
+// @see https://community.bistudio.com/wiki/Description.ext
+
+// Sample RedFramework configuration
+class RedFrameworkConfig {
+	class combatPatrol_CfgEnemis {
+		//side = "east";
+	};
+
+	class combatPatrol_SpawnCirclePatrols {
+		/*distance = 100;
+		unitTypes[] = {{"rhs_vmf_recon_efreitor", "rhs_vmf_recon_rifleman_asval", "rhs_vmf_recon_rifleman_l"}, {"rhs_vmf_recon_efreitor", "rhs_vmf_recon_rifleman_lat"}, {"rhs_vmf_recon_efreitor", "rhs_vmf_recon_medic"}, {"rhs_vmf_recon_efreitor", "rhs_vmf_recon_rifleman_asval", "rhs_vmf_recon_medic", "rhs_vmf_recon_rifleman_l"}};
+		radiusPatrols[] = {25, 50, 75};*/
+	};
+
+	class combatPatrol_SpawnGarnisons {
+		/*distance = 50;
+		unitTypes[] = {{"rhs_vmf_recon_efreitor", "rhs_vmf_recon_rifleman_asval", "rhs_vmf_recon_rifleman_l"}, {"rhs_vmf_recon_efreitor", "rhs_vmf_recon_rifleman_lat"}, {"rhs_vmf_recon_efreitor", "rhs_vmf_recon_medic"}, {"rhs_vmf_recon_efreitor", "rhs_vmf_recon_rifleman_asval", "rhs_vmf_recon_medic", "rhs_vmf_recon_rifleman_l"}};
+		ramdomizeDistance = 25;*/
+	};
+};
