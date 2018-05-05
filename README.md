@@ -4,8 +4,10 @@
 This template will help you to gain some time to organize the structure of your missions. I recommend this structure to the newcomer.
 
 ## Getting started
+ - Download template from github (clone or direct download)
  - Create your mission with 3den editor
  - Copy paste the contents into the mission folder
+ - Remove .gitattributes
 
 ## Skeleton
     \function (Place your custom functions here)
